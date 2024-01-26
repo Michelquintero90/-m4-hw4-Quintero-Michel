@@ -1,0 +1,32 @@
+h1 {
+    font-size: xx-large;
+}
+
+h1, h2{
+    text-align: center;
+}
+
+h4 {
+    color: blueviolet;
+}
+
+h3, h4 {
+    text-decoration:line-through;
+    text-align: center;
+}
+
+a {
+    display: flex;
+    text-decoration: none;
+    text-transform: uppercase;
+    justify-content: space-around;
+    background-color: rgb(158, 241, 241);
+}
+
+div p {
+    color: blue;
+}
+
+header > img {
+    margin-left: 40%;
+}
